@@ -20,7 +20,7 @@ to the root of that repository and reference this repository.
 
 This repository follows the agent conventions defined here:
 
-https://github.com/janmarkuslanger/agents/blob/main/AGENTS.md
+https://raw.githubusercontent.com/janmarkuslanger/agents/refs/heads/main/AGENTS.md
 
 No repository-specific overrides apply.
 ```
